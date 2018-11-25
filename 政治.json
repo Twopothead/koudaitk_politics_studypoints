@@ -1,0 +1,3351 @@
+{
+    "code": "200",
+    "data": [
+        {
+            "id": 1451,
+            "name": "哲学基本问题及其内容（对哲学的划分）",
+            "examItems": [
+                {
+                    "id": 5310,
+                    "answerType": 0
+                },
+                {
+                    "id": 5328,
+                    "answerType": 0
+                },
+                {
+                    "id": 5508,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1452,
+            "name": "哲学的其他划分",
+            "examItems": [
+                {
+                    "id": 5550,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1454,
+            "name": "物质与运动",
+            "examItems": [
+                {
+                    "id": 567,
+                    "answerType": 1
+                },
+                {
+                    "id": 5554,
+                    "answerType": 1
+                },
+                {
+                    "id": 5555,
+                    "answerType": 1
+                },
+                {
+                    "id": 15529,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1456,
+            "name": "时间与空间",
+            "examItems": [
+                {
+                    "id": 567,
+                    "answerType": 1
+                },
+                {
+                    "id": 15454,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1457,
+            "name": "意识的起源与本质",
+            "examItems": [
+                {
+                    "id": 700,
+                    "answerType": 1
+                },
+                {
+                    "id": 15450,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1458,
+            "name": "意识的特征",
+            "examItems": [
+                {
+                    "id": 700,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1461,
+            "name": "人类社会与自然界",
+            "examItems": [
+                {
+                    "id": 5300,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1465,
+            "name": "发展的实质",
+            "examItems": [
+                {
+                    "id": 15467,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1466,
+            "name": "量变与质变",
+            "examItems": [
+                {
+                    "id": 718,
+                    "answerType": 0
+                },
+                {
+                    "id": 5563,
+                    "answerType": 1
+                },
+                {
+                    "id": 5567,
+                    "answerType": 1
+                },
+                {
+                    "id": 15479,
+                    "answerType": 1
+                },
+                {
+                    "id": 37049,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 5
+        },
+        {
+            "id": 1467,
+            "name": "对立统一规律",
+            "examItems": [
+                {
+                    "id": 5334,
+                    "answerType": 0
+                },
+                {
+                    "id": 5337,
+                    "answerType": 0
+                },
+                {
+                    "id": 5351,
+                    "answerType": 1
+                },
+                {
+                    "id": 5528,
+                    "answerType": 0
+                },
+                {
+                    "id": 15523,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 5
+        },
+        {
+            "id": 1468,
+            "name": "肯定与否定",
+            "examItems": [
+                {
+                    "id": 5341,
+                    "answerType": 0
+                },
+                {
+                    "id": 5527,
+                    "answerType": 0
+                },
+                {
+                    "id": 5566,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1469,
+            "name": "必然与偶然",
+            "examItems": [
+                {
+                    "id": 5573,
+                    "answerType": 1
+                },
+                {
+                    "id": 16249,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1471,
+            "name": "现象与本质",
+            "examItems": [
+                {
+                    "id": 15491,
+                    "answerType": 0
+                },
+                {
+                    "id": 41721,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1472,
+            "name": "可能与现实",
+            "examItems": [
+                {
+                    "id": 15490,
+                    "answerType": 1
+                },
+                {
+                    "id": 15526,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1474,
+            "name": "规律及其客观性",
+            "examItems": [
+                {
+                    "id": 809,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1475,
+            "name": "自然规律和社会规律",
+            "examItems": [
+                {
+                    "id": 736,
+                    "answerType": 1
+                },
+                {
+                    "id": 777,
+                    "answerType": 1
+                },
+                {
+                    "id": 5353,
+                    "answerType": 1
+                },
+                {
+                    "id": 5577,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1476,
+            "name": "客观规律性和主观能动性",
+            "examItems": [
+                {
+                    "id": 5548,
+                    "answerType": 0
+                },
+                {
+                    "id": 36769,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1478,
+            "name": "可知论的两个对立",
+            "examItems": [
+                {
+                    "id": 5380,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1479,
+            "name": "实践及其和认识的关系",
+            "examItems": [
+                {
+                    "id": 795,
+                    "answerType": 0
+                },
+                {
+                    "id": 5589,
+                    "answerType": 1
+                },
+                {
+                    "id": 30803,
+                    "answerType": 0
+                },
+                {
+                    "id": 30808,
+                    "answerType": 1
+                },
+                {
+                    "id": 37030,
+                    "answerType": 0
+                },
+                {
+                    "id": 37728,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 6
+        },
+        {
+            "id": 1481,
+            "name": "认识发展过程的两次飞跃",
+            "examItems": [
+                {
+                    "id": 5366,
+                    "answerType": 0
+                },
+                {
+                    "id": 5394,
+                    "answerType": 1
+                },
+                {
+                    "id": 5597,
+                    "answerType": 1
+                },
+                {
+                    "id": 5598,
+                    "answerType": 1
+                },
+                {
+                    "id": 36320,
+                    "answerType": 0
+                },
+                {
+                    "id": 36931,
+                    "answerType": 1
+                },
+                {
+                    "id": 52410,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 7
+        },
+        {
+            "id": 1482,
+            "name": "认识过程的理性因素和非理性因素",
+            "examItems": [
+                {
+                    "id": 36969,
+                    "answerType": 1
+                },
+                {
+                    "id": 52407,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1483,
+            "name": "真理及其客观性（一元性）",
+            "examItems": [
+                {
+                    "id": 5600,
+                    "answerType": 1
+                },
+                {
+                    "id": 5601,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1484,
+            "name": "真理的绝对性与相对性",
+            "examItems": [
+                {
+                    "id": 44881,
+                    "answerType": 1
+                },
+                {
+                    "id": 52432,
+                    "answerType": 1
+                },
+                {
+                    "id": 52435,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1485,
+            "name": "真理与谬误",
+            "examItems": [
+                {
+                    "id": 36208,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1487,
+            "name": "唯物史观和唯心史观的对立",
+            "examItems": [
+                {
+                    "id": 5427,
+                    "answerType": 1
+                },
+                {
+                    "id": 5428,
+                    "answerType": 1
+                },
+                {
+                    "id": 15867,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1488,
+            "name": "社会存在和社会意识及其关系",
+            "examItems": [
+                {
+                    "id": 5401,
+                    "answerType": 0
+                },
+                {
+                    "id": 5607,
+                    "answerType": 0
+                },
+                {
+                    "id": 5620,
+                    "answerType": 1
+                },
+                {
+                    "id": 5625,
+                    "answerType": 1
+                },
+                {
+                    "id": 12746,
+                    "answerType": 0
+                },
+                {
+                    "id": 12747,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 6
+        },
+        {
+            "id": 1489,
+            "name": "生产方式",
+            "examItems": [
+                {
+                    "id": 5402,
+                    "answerType": 0
+                },
+                {
+                    "id": 5430,
+                    "answerType": 1
+                },
+                {
+                    "id": 5621,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1491,
+            "name": "生产力和生产关系",
+            "examItems": [
+                {
+                    "id": 5605,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1492,
+            "name": "经济基础与上层建筑",
+            "examItems": [
+                {
+                    "id": 601,
+                    "answerType": 1
+                },
+                {
+                    "id": 5422,
+                    "answerType": 0
+                },
+                {
+                    "id": 41799,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1493,
+            "name": "其他动力",
+            "examItems": [
+                {
+                    "id": 669,
+                    "answerType": 1
+                },
+                {
+                    "id": 5265,
+                    "answerType": 1
+                },
+                {
+                    "id": 41833,
+                    "answerType": 1
+                },
+                {
+                    "id": 41871,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1494,
+            "name": "社会形态及其发展",
+            "examItems": [
+                {
+                    "id": 5432,
+                    "answerType": 1
+                },
+                {
+                    "id": 5630,
+                    "answerType": 1
+                },
+                {
+                    "id": 15855,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1495,
+            "name": "社会形态更替的特点",
+            "examItems": [
+                {
+                    "id": 736,
+                    "answerType": 1
+                },
+                {
+                    "id": 5426,
+                    "answerType": 1
+                },
+                {
+                    "id": 5632,
+                    "answerType": 1
+                },
+                {
+                    "id": 15852,
+                    "answerType": 1
+                },
+                {
+                    "id": 15858,
+                    "answerType": 1
+                },
+                {
+                    "id": 16237,
+                    "answerType": 1
+                },
+                {
+                    "id": 37004,
+                    "answerType": 1
+                },
+                {
+                    "id": 37729,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 8
+        },
+        {
+            "id": 1496,
+            "name": "国家的起源和实质",
+            "examItems": [
+                {
+                    "id": 15841,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1498,
+            "name": "人民群众与英雄人物的关系",
+            "examItems": [
+                {
+                    "id": 5436,
+                    "answerType": 1
+                },
+                {
+                    "id": 5628,
+                    "answerType": 1
+                },
+                {
+                    "id": 5629,
+                    "answerType": 1
+                },
+                {
+                    "id": 5631,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1501,
+            "name": "劳动二重性",
+            "examItems": [
+                {
+                    "id": 602,
+                    "answerType": 1
+                },
+                {
+                    "id": 5269,
+                    "answerType": 1
+                },
+                {
+                    "id": 5457,
+                    "answerType": 1
+                },
+                {
+                    "id": 36771,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1502,
+            "name": "商品二因素",
+            "examItems": [
+                {
+                    "id": 602,
+                    "answerType": 1
+                },
+                {
+                    "id": 5269,
+                    "answerType": 1
+                },
+                {
+                    "id": 5441,
+                    "answerType": 0
+                },
+                {
+                    "id": 5446,
+                    "answerType": 0
+                },
+                {
+                    "id": 5455,
+                    "answerType": 1
+                },
+                {
+                    "id": 5641,
+                    "answerType": 0
+                },
+                {
+                    "id": 5645,
+                    "answerType": 0
+                },
+                {
+                    "id": 5681,
+                    "answerType": 1
+                },
+                {
+                    "id": 36738,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 9
+        },
+        {
+            "id": 1503,
+            "name": "货币理论",
+            "examItems": [
+                {
+                    "id": 569,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1504,
+            "name": "价值与价格关系",
+            "examItems": [
+                {
+                    "id": 5649,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1507,
+            "name": "劳动力转化为商品和货币转化为资本",
+            "examItems": [
+                {
+                    "id": 5644,
+                    "answerType": 0
+                },
+                {
+                    "id": 36339,
+                    "answerType": 1
+                },
+                {
+                    "id": 36683,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1508,
+            "name": "资本主义所有制和工资的本质",
+            "examItems": [
+                {
+                    "id": 586,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1509,
+            "name": "资本理论",
+            "examItems": [
+                {
+                    "id": 5654,
+                    "answerType": 0
+                },
+                {
+                    "id": 5687,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1511,
+            "name": "剩余价值",
+            "examItems": [
+                {
+                    "id": 5658,
+                    "answerType": 0
+                },
+                {
+                    "id": 5689,
+                    "answerType": 1
+                },
+                {
+                    "id": 5696,
+                    "answerType": 1
+                },
+                {
+                    "id": 37714,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1513,
+            "name": "扩大再生产与资本积累",
+            "examItems": [
+                {
+                    "id": 543,
+                    "answerType": 0
+                },
+                {
+                    "id": 5659,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1514,
+            "name": "资本的有机构成",
+            "examItems": [
+                {
+                    "id": 656,
+                    "answerType": 0
+                },
+                {
+                    "id": 5273,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1516,
+            "name": "资本主义社会的基本矛盾与经济危机",
+            "examItems": [
+                {
+                    "id": 671,
+                    "answerType": 1
+                },
+                {
+                    "id": 5697,
+                    "answerType": 1
+                },
+                {
+                    "id": 36854,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1517,
+            "name": "资本的循环与周转",
+            "examItems": [
+                {
+                    "id": 5695,
+                    "answerType": 1
+                },
+                {
+                    "id": 5699,
+                    "answerType": 1
+                },
+                {
+                    "id": 36874,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1518,
+            "name": "平均利润与生产价格",
+            "examItems": [
+                {
+                    "id": 765,
+                    "answerType": 0
+                },
+                {
+                    "id": 5655,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1519,
+            "name": "资本主义产生的产生与原始积累",
+            "examItems": [
+                {
+                    "id": 5637,
+                    "answerType": 0
+                },
+                {
+                    "id": 12777,
+                    "answerType": 1
+                },
+                {
+                    "id": 36219,
+                    "answerType": 0
+                },
+                {
+                    "id": 39223,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1520,
+            "name": "资本主义的政治制度和意识形态",
+            "examItems": [
+                {
+                    "id": 5676,
+                    "answerType": 1
+                },
+                {
+                    "id": 30837,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1521,
+            "name": "垄断与竞争",
+            "examItems": [
+                {
+                    "id": 781,
+                    "answerType": 1
+                },
+                {
+                    "id": 5474,
+                    "answerType": 1
+                },
+                {
+                    "id": 36939,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1522,
+            "name": "金融资本和垄断利润",
+            "examItems": [
+                {
+                    "id": 36276,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1523,
+            "name": "垄断资本从国家走向全球",
+            "examItems": [
+                {
+                    "id": 5477,
+                    "answerType": 1
+                },
+                {
+                    "id": 5700,
+                    "answerType": 0
+                },
+                {
+                    "id": 12778,
+                    "answerType": 1
+                },
+                {
+                    "id": 37005,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1526,
+            "name": "当代资本主义变化的表现",
+            "examItems": [
+                {
+                    "id": 537,
+                    "answerType": 1
+                },
+                {
+                    "id": 5705,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1527,
+            "name": "当代资本主义变化的原因和实质",
+            "examItems": [
+                {
+                    "id": 36261,
+                    "answerType": 1
+                },
+                {
+                    "id": 36772,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1528,
+            "name": "资本主义的历史地位",
+            "examItems": [
+                {
+                    "id": 736,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1529,
+            "name": "空想社会主义",
+            "examItems": [
+                {
+                    "id": 5486,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1530,
+            "name": "科学社会主义",
+            "examItems": [
+                {
+                    "id": 5486,
+                    "answerType": 1
+                },
+                {
+                    "id": 36323,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1531,
+            "name": "十月革命与列宁时期的探索",
+            "examItems": [
+                {
+                    "id": 5486,
+                    "answerType": 1
+                },
+                {
+                    "id": 5709,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1534,
+            "name": "社会主义发展的性质",
+            "examItems": [
+                {
+                    "id": 5481,
+                    "answerType": 0
+                },
+                {
+                    "id": 5490,
+                    "answerType": 1
+                },
+                {
+                    "id": 16261,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1535,
+            "name": "无产阶级政党及其作用",
+            "examItems": [
+                {
+                    "id": 5489,
+                    "answerType": 1
+                },
+                {
+                    "id": 36739,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1561,
+            "name": "法律的运行",
+            "examItems": [
+                {
+                    "id": 37045,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1563,
+            "name": "我国的国家制度",
+            "examItems": [
+                {
+                    "id": 5846,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1564,
+            "name": "公民的基本权利和义务",
+            "examItems": [
+                {
+                    "id": 747,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1569,
+            "name": "社会主义法治观念的基本内容",
+            "examItems": [
+                {
+                    "id": 5865,
+                    "answerType": 1
+                },
+                {
+                    "id": 36416,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1570,
+            "name": "法治思维的含义、特征",
+            "examItems": [
+                {
+                    "id": 36904,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1574,
+            "name": "尊重法律权威的基本要求",
+            "examItems": [
+                {
+                    "id": 5817,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1664,
+            "name": "新文化运动的内容和意义",
+            "examItems": [
+                {
+                    "id": 6041,
+                    "answerType": 1
+                },
+                {
+                    "id": 6170,
+                    "answerType": 1
+                },
+                {
+                    "id": 12765,
+                    "answerType": 0
+                },
+                {
+                    "id": 36433,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1665,
+            "name": "五四运动及其意义",
+            "examItems": [
+                {
+                    "id": 6034,
+                    "answerType": 0
+                },
+                {
+                    "id": 36233,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1666,
+            "name": "十月革命的影响与新民主主义革命的开端",
+            "examItems": [
+                {
+                    "id": 6171,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1667,
+            "name": "中国共产党的成立",
+            "examItems": [
+                {
+                    "id": 6044,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1668,
+            "name": "中国共产党的早期运动",
+            "examItems": [
+                {
+                    "id": 6043,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1669,
+            "name": "国共合作的形成",
+            "examItems": [
+                {
+                    "id": 557,
+                    "answerType": 0
+                },
+                {
+                    "id": 6047,
+                    "answerType": 1
+                },
+                {
+                    "id": 6174,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1671,
+            "name": "大革命的意义，失败原因和教训",
+            "examItems": [
+                {
+                    "id": 6048,
+                    "answerType": 1
+                },
+                {
+                    "id": 36795,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1672,
+            "name": "国民党的统治和反抗国民党的斗争",
+            "examItems": [
+                {
+                    "id": 6059,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1673,
+            "name": "革命新道路的探索",
+            "examItems": [
+                {
+                    "id": 6054,
+                    "answerType": 0
+                },
+                {
+                    "id": 6183,
+                    "answerType": 1
+                },
+                {
+                    "id": 6184,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1674,
+            "name": "土地革命",
+            "examItems": [
+                {
+                    "id": 785,
+                    "answerType": 1
+                },
+                {
+                    "id": 6060,
+                    "answerType": 1
+                },
+                {
+                    "id": 6180,
+                    "answerType": 0
+                },
+                {
+                    "id": 6182,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1675,
+            "name": "“左”的错误的危害",
+            "examItems": [
+                {
+                    "id": 6181,
+                    "answerType": 0
+                },
+                {
+                    "id": 36290,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1676,
+            "name": "遵义会议与长征胜利",
+            "examItems": [
+                {
+                    "id": 36235,
+                    "answerType": 1
+                },
+                {
+                    "id": 36707,
+                    "answerType": 1
+                },
+                {
+                    "id": 37738,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1679,
+            "name": "西安事变与抗日民族统一战线的形成",
+            "examItems": [
+                {
+                    "id": 5975,
+                    "answerType": 1
+                },
+                {
+                    "id": 6077,
+                    "answerType": 1
+                },
+                {
+                    "id": 8175,
+                    "answerType": 1
+                },
+                {
+                    "id": 37737,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1681,
+            "name": "正面战场与敌后战场",
+            "examItems": [
+                {
+                    "id": 8174,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1682,
+            "name": "共产党维护统一战线的策略",
+            "examItems": [
+                {
+                    "id": 744,
+                    "answerType": 1
+                },
+                {
+                    "id": 6195,
+                    "answerType": 1
+                },
+                {
+                    "id": 6196,
+                    "answerType": 1
+                },
+                {
+                    "id": 35960,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1683,
+            "name": "根据地建设",
+            "examItems": [
+                {
+                    "id": 6084,
+                    "answerType": 0
+                },
+                {
+                    "id": 36292,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1684,
+            "name": "党的建设与延安整风",
+            "examItems": [
+                {
+                    "id": 709,
+                    "answerType": 1
+                },
+                {
+                    "id": 6200,
+                    "answerType": 1
+                },
+                {
+                    "id": 8177,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 1685,
+            "name": "抗战的胜利与中国在二战中的地位",
+            "examItems": [
+                {
+                    "id": 578,
+                    "answerType": 1
+                },
+                {
+                    "id": 643,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 1686,
+            "name": "抗日战争胜利的意义、原因和基本经验",
+            "examItems": [
+                {
+                    "id": 36411,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1693,
+            "name": "新民主主义社会的性质",
+            "examItems": [
+                {
+                    "id": 36781,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 1696,
+            "name": "对农业手工业的改造",
+            "examItems": [
+                {
+                    "id": 6115,
+                    "answerType": 1
+                },
+                {
+                    "id": 6215,
+                    "answerType": 0
+                },
+                {
+                    "id": 6311,
+                    "answerType": 1
+                },
+                {
+                    "id": 6313,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 1698,
+            "name": "社会主义制度的确立及其意义",
+            "examItems": [
+                {
+                    "id": 6295,
+                    "answerType": 0
+                },
+                {
+                    "id": 6296,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 2511,
+            "name": "马克思主义中国化的提出与内涵",
+            "examItems": [
+                {
+                    "id": 691,
+                    "answerType": 0
+                },
+                {
+                    "id": 737,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 2513,
+            "name": "毛泽东思想的形成过程",
+            "examItems": [
+                {
+                    "id": 6697,
+                    "answerType": 1
+                },
+                {
+                    "id": 36941,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 2514,
+            "name": "毛泽东思想的内容与评价",
+            "examItems": [
+                {
+                    "id": 593,
+                    "answerType": 0
+                },
+                {
+                    "id": 6402,
+                    "answerType": 1
+                },
+                {
+                    "id": 6426,
+                    "answerType": 1
+                },
+                {
+                    "id": 36807,
+                    "answerType": 1
+                }
+            ],
+            "channelPathName": "毛泽东思想和中国特色社会主义理论体系概论 > 第1章 毛泽东思想及其历史地位 > 毛泽东思想的主要内容和活的灵魂",
+            "mistakeCount": 4
+        },
+        {
+            "id": 2519,
+            "name": "近代中国的基本国情与产生原因",
+            "examItems": [
+                {
+                    "id": 36217,
+                    "answerType": 1
+                },
+                {
+                    "id": 41709,
+                    "answerType": 0
+                },
+                {
+                    "id": 41800,
+                    "answerType": 1
+                },
+                {
+                    "id": 41899,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "毛泽东思想和中国特色社会主义理论体系概论 > 第2章 新民主主义革命理论 > 中国新民主主义革命理论形成的依据",
+            "mistakeCount": 4
+        },
+        {
+            "id": 2520,
+            "name": "近代以来的主要矛盾和革命性质",
+            "examItems": [
+                {
+                    "id": 41899,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "毛泽东思想和中国特色社会主义理论体系概论 > 第2章 新民主主义革命理论 > 中国新民主主义革命理论形成的依据",
+            "mistakeCount": 1
+        },
+        {
+            "id": 2522,
+            "name": "新民主主义革命的动力与领导",
+            "examItems": [
+                {
+                    "id": 6580,
+                    "answerType": 0
+                },
+                {
+                    "id": 6724,
+                    "answerType": 1
+                },
+                {
+                    "id": 6725,
+                    "answerType": 1
+                },
+                {
+                    "id": 30756,
+                    "answerType": 0
+                },
+                {
+                    "id": 36758,
+                    "answerType": 0
+                },
+                {
+                    "id": 36919,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "毛泽东思想和中国特色社会主义理论体系概论 > 第2章 新民主主义革命理论 > 新民主主义革命的总路线",
+            "mistakeCount": 6
+        },
+        {
+            "id": 2523,
+            "name": "新民主主义革命的前途与两种错误倾向",
+            "examItems": [
+                {
+                    "id": 6712,
+                    "answerType": 0
+                },
+                {
+                    "id": 37007,
+                    "answerType": 1
+                }
+            ],
+            "channelPathName": "毛泽东思想和中国特色社会主义理论体系概论 > 第2章 新民主主义革命理论 > 新民主主义革命的总路线",
+            "mistakeCount": 2
+        },
+        {
+            "id": 2524,
+            "name": "政治纲领",
+            "examItems": [
+                {
+                    "id": 36218,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 2526,
+            "name": "文化纲领",
+            "examItems": [
+                {
+                    "id": 6727,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 2529,
+            "name": "新民主主义社会的经济、政治和文化",
+            "examItems": [
+                {
+                    "id": 6731,
+                    "answerType": 1
+                }
+            ],
+            "channelPathName": "毛泽东思想和中国特色社会主义理论体系概论 > 第3章 社会主义改造理论 > 从新民主主义到社会主义的转变",
+            "mistakeCount": 1
+        },
+        {
+            "id": 2531,
+            "name": "过渡时期总路线的提出过程",
+            "examItems": [
+                {
+                    "id": 37732,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 2536,
+            "name": "社会主义制度的确立及其意义",
+            "examItems": [
+                {
+                    "id": 6736,
+                    "answerType": 1
+                },
+                {
+                    "id": 16413,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 2550,
+            "name": "改革的性质",
+            "examItems": [
+                {
+                    "id": 16431,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 2584,
+            "name": "和平统一、一国两制思想的提出、内容与意义",
+            "examItems": [
+                {
+                    "id": 578,
+                    "answerType": 1
+                },
+                {
+                    "id": 643,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 8562,
+            "name": "马克思主义的创立",
+            "examItems": [
+                {
+                    "id": 5290,
+                    "answerType": 0
+                },
+                {
+                    "id": 5293,
+                    "answerType": 0
+                },
+                {
+                    "id": 5301,
+                    "answerType": 1
+                },
+                {
+                    "id": 5505,
+                    "answerType": 1
+                },
+                {
+                    "id": 36205,
+                    "answerType": 1
+                },
+                {
+                    "id": 42113,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 6
+        },
+        {
+            "id": 8563,
+            "name": "马克思主义的鲜明特征",
+            "examItems": [
+                {
+                    "id": 750,
+                    "answerType": 0
+                },
+                {
+                    "id": 15456,
+                    "answerType": 1
+                },
+                {
+                    "id": 43374,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 8564,
+            "name": "马克思主义基本原理",
+            "examItems": [
+                {
+                    "id": 43380,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 8565,
+            "name": "自觉学习和运用马克思主义",
+            "examItems": [
+                {
+                    "id": 43374,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 8566,
+            "name": "唯物主义和唯心主义",
+            "examItems": [
+                {
+                    "id": 30069,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 8604,
+            "name": "全面依法治国的基本格局",
+            "examItems": [
+                {
+                    "id": 36799,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 8605,
+            "name": "唯物辩证法与“四个全面”战略思想",
+            "examItems": [
+                {
+                    "id": 36172,
+                    "answerType": 0
+                },
+                {
+                    "id": 36197,
+                    "answerType": 0
+                },
+                {
+                    "id": 36915,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 8623,
+            "name": "法律权利",
+            "examItems": [
+                {
+                    "id": 35931,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 8628,
+            "name": "法律权利与法律义务的关系",
+            "examItems": [
+                {
+                    "id": 30738,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 8632,
+            "name": "政治权利与义务",
+            "examItems": [
+                {
+                    "id": 111111,
+                    "answerType": 3
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 8778,
+            "name": "中国特色社会主义法律体系的意义和内容",
+            "examItems": [
+                {
+                    "id": 30732,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 8991,
+            "name": "我国的实体法律部门",
+            "examItems": [
+                {
+                    "id": 5851,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 8995,
+            "name": "增强辩证思维能力 ",
+            "examItems": [
+                {
+                    "id": 36112,
+                    "answerType": 1
+                },
+                {
+                    "id": 36199,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 8996,
+            "name": "认识世界和改造世界必需勇于创新",
+            "examItems": [
+                {
+                    "id": 52404,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 8997,
+            "name": "物质生产方式是社会发展的基础 ",
+            "examItems": [
+                {
+                    "id": 35946,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 8999,
+            "name": "金融垄断资本的发展",
+            "examItems": [
+                {
+                    "id": 30840,
+                    "answerType": 0
+                },
+                {
+                    "id": 30842,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 9001,
+            "name": "科学社会主义基本原则的主要内容 ",
+            "examItems": [
+                {
+                    "id": 36099,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 9003,
+            "name": "实践的本质、基本特征和基本形式",
+            "examItems": [
+                {
+                    "id": 30812,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 9006,
+            "name": "全面深化改革的总目标",
+            "examItems": [
+                {
+                    "id": 41785,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 9015,
+            "name": "完善生态文明制度体系",
+            "examItems": [
+                {
+                    "id": 36327,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 14768,
+            "name": " 共产主义的基本特征",
+            "examItems": [
+                {
+                    "id": 5494,
+                    "answerType": 0
+                },
+                {
+                    "id": 43386,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 14829,
+            "name": "真理问题讨论与十一届三中全会",
+            "examItems": [
+                {
+                    "id": 6136,
+                    "answerType": 1
+                },
+                {
+                    "id": 36288,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 14830,
+            "name": "农村改革、四项基本原则和科学评价毛泽东思想",
+            "examItems": [
+                {
+                    "id": 6131,
+                    "answerType": 0
+                },
+                {
+                    "id": 6227,
+                    "answerType": 0
+                },
+                {
+                    "id": 6228,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 14831,
+            "name": "中共十二大、十三大、十四大与南方谈话、十五大",
+            "examItems": [
+                {
+                    "id": 6132,
+                    "answerType": 0
+                },
+                {
+                    "id": 6304,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 14848,
+            "name": "商品经济",
+            "examItems": [
+                {
+                    "id": 5270,
+                    "answerType": 1
+                },
+                {
+                    "id": 5450,
+                    "answerType": 0
+                },
+                {
+                    "id": 5460,
+                    "answerType": 1
+                },
+                {
+                    "id": 5671,
+                    "answerType": 0
+                },
+                {
+                    "id": 5686,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 5
+        },
+        {
+            "id": 14849,
+            "name": "商品经济产生的条件",
+            "examItems": [
+                {
+                    "id": 5438,
+                    "answerType": 0
+                },
+                {
+                    "id": 5449,
+                    "answerType": 0
+                },
+                {
+                    "id": 35947,
+                    "answerType": 1
+                },
+                {
+                    "id": 36721,
+                    "answerType": 0
+                },
+                {
+                    "id": 36755,
+                    "answerType": 0
+                },
+                {
+                    "id": 36936,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 6
+        },
+        {
+            "id": 14850,
+            "name": "资本主义生产关系的产生",
+            "examItems": [
+                {
+                    "id": 36322,
+                    "answerType": 0
+                },
+                {
+                    "id": 36426,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 14851,
+            "name": "资本主义的生产过程",
+            "examItems": [
+                {
+                    "id": 5451,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 14854,
+            "name": "其他理论成果",
+            "examItems": [
+                {
+                    "id": 36220,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 14860,
+            "name": "中国特色社会主义总布局历史回顾",
+            "examItems": [
+                {
+                    "id": 6645,
+                    "answerType": 1
+                },
+                {
+                    "id": 6654,
+                    "answerType": 1
+                },
+                {
+                    "id": 16447,
+                    "answerType": 0
+                },
+                {
+                    "id": 16452,
+                    "answerType": 0
+                },
+                {
+                    "id": 16469,
+                    "answerType": 1
+                },
+                {
+                    "id": 16697,
+                    "answerType": 1
+                },
+                {
+                    "id": 16699,
+                    "answerType": 1
+                },
+                {
+                    "id": 16706,
+                    "answerType": 0
+                },
+                {
+                    "id": 16713,
+                    "answerType": 1
+                },
+                {
+                    "id": 30776,
+                    "answerType": 1
+                },
+                {
+                    "id": 36118,
+                    "answerType": 1
+                },
+                {
+                    "id": 36216,
+                    "answerType": 1
+                },
+                {
+                    "id": 36269,
+                    "answerType": 1
+                },
+                {
+                    "id": 36403,
+                    "answerType": 1
+                },
+                {
+                    "id": 36688,
+                    "answerType": 0
+                },
+                {
+                    "id": 36992,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "毛泽东思想和中国特色社会主义理论体系概论 > 建设中国特色社会主义总布局 > 易混知识回顾：总依据、总任务、总布局",
+            "mistakeCount": 16
+        },
+        {
+            "id": 14861,
+            "name": "帝国主义的侵略",
+            "examItems": [
+                {
+                    "id": 5987,
+                    "answerType": 0
+                },
+                {
+                    "id": 36945,
+                    "answerType": 1
+                },
+                {
+                    "id": 39228,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 14862,
+            "name": "近代社会的性质",
+            "examItems": [
+                {
+                    "id": 35959,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 14863,
+            "name": "反抗外族侵略的斗争",
+            "examItems": [
+                {
+                    "id": 6143,
+                    "answerType": 0
+                },
+                {
+                    "id": 6145,
+                    "answerType": 1
+                },
+                {
+                    "id": 36901,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 14864,
+            "name": "反侵略战争的失败和民族意识的觉醒",
+            "examItems": [
+                {
+                    "id": 36994,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 14866,
+            "name": "洋务运动",
+            "examItems": [
+                {
+                    "id": 6009,
+                    "answerType": 1
+                },
+                {
+                    "id": 6154,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 14867,
+            "name": "维新运动",
+            "examItems": [
+                {
+                    "id": 6001,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 14868,
+            "name": "辛亥革命的性质与早期工作",
+            "examItems": [
+                {
+                    "id": 5966,
+                    "answerType": 0
+                },
+                {
+                    "id": 6015,
+                    "answerType": 0
+                },
+                {
+                    "id": 37040,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 14869,
+            "name": "理论工作:三民主义和革命改良的辩论",
+            "examItems": [
+                {
+                    "id": 6157,
+                    "answerType": 1
+                },
+                {
+                    "id": 6158,
+                    "answerType": 1
+                },
+                {
+                    "id": 6261,
+                    "answerType": 1
+                },
+                {
+                    "id": 36105,
+                    "answerType": 0
+                },
+                {
+                    "id": 39252,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 5
+        },
+        {
+            "id": 14870,
+            "name": "武昌起义与封建帝制的覆灭",
+            "examItems": [
+                {
+                    "id": 8171,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 14878,
+            "name": "土地改革与第二条战线",
+            "examItems": [
+                {
+                    "id": 6279,
+                    "answerType": 0
+                },
+                {
+                    "id": 36253,
+                    "answerType": 1
+                },
+                {
+                    "id": 36435,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 14880,
+            "name": "新民主主义革命胜利的原因和基本经验",
+            "examItems": [
+                {
+                    "id": 6090,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 14881,
+            "name": "中共八大",
+            "examItems": [
+                {
+                    "id": 6121,
+                    "answerType": 0
+                },
+                {
+                    "id": 6127,
+                    "answerType": 1
+                },
+                {
+                    "id": 36348,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 14882,
+            "name": "《论十大关系》和《关于正确处理人民内部矛盾的问题》",
+            "examItems": [
+                {
+                    "id": 6118,
+                    "answerType": 0
+                },
+                {
+                    "id": 6224,
+                    "answerType": 1
+                },
+                {
+                    "id": 6225,
+                    "answerType": 1
+                },
+                {
+                    "id": 37722,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 14883,
+            "name": "整风与反右斗争",
+            "examItems": [
+                {
+                    "id": 36299,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 14885,
+            "name": "独立的，比较完整的工业体系和国民经济体系的建立  ",
+            "examItems": [
+                {
+                    "id": 6221,
+                    "answerType": 0
+                },
+                {
+                    "id": 36709,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 14886,
+            "name": "树立理想信念：信仰与理想",
+            "examItems": [
+                {
+                    "id": 5885,
+                    "answerType": 1
+                },
+                {
+                    "id": 5891,
+                    "answerType": 1
+                },
+                {
+                    "id": 5892,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 14887,
+            "name": "在实践中化理想为现实",
+            "examItems": [
+                {
+                    "id": 5749,
+                    "answerType": 1
+                },
+                {
+                    "id": 5890,
+                    "answerType": 1
+                },
+                {
+                    "id": 36175,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 14888,
+            "name": "爱国主义的要求与传统 ",
+            "examItems": [
+                {
+                    "id": 5898,
+                    "answerType": 0
+                },
+                {
+                    "id": 5904,
+                    "answerType": 1
+                },
+                {
+                    "id": 5907,
+                    "answerType": 1
+                },
+                {
+                    "id": 5908,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 14889,
+            "name": "新时期的爱国主义与爱国主义的时代价值",
+            "examItems": [
+                {
+                    "id": 36082,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 14890,
+            "name": "民族精神与时代精神",
+            "examItems": [
+                {
+                    "id": 36748,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 14894,
+            "name": "人生观、人生目的、人生态度与人生价值 ",
+            "examItems": [
+                {
+                    "id": 5770,
+                    "answerType": 0
+                },
+                {
+                    "id": 5909,
+                    "answerType": 0
+                },
+                {
+                    "id": 5917,
+                    "answerType": 1
+                },
+                {
+                    "id": 36436,
+                    "answerType": 0
+                },
+                {
+                    "id": 37063,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 5
+        },
+        {
+            "id": 14895,
+            "name": "人生价值及其实现 ",
+            "examItems": [
+                {
+                    "id": 5731,
+                    "answerType": 1
+                },
+                {
+                    "id": 5772,
+                    "answerType": 1
+                },
+                {
+                    "id": 5773,
+                    "answerType": 1
+                },
+                {
+                    "id": 5918,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 14896,
+            "name": "科学对待人生环境 ",
+            "examItems": [
+                {
+                    "id": 5767,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 14897,
+            "name": "道德及其作用",
+            "examItems": [
+                {
+                    "id": 5803,
+                    "answerType": 0
+                },
+                {
+                    "id": 36815,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 14898,
+            "name": "中华民族传统道德 ",
+            "examItems": [
+                {
+                    "id": 5796,
+                    "answerType": 1
+                },
+                {
+                    "id": 5931,
+                    "answerType": 1
+                },
+                {
+                    "id": 30725,
+                    "answerType": 1
+                },
+                {
+                    "id": 36243,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 4
+        },
+        {
+            "id": 14902,
+            "name": "世界总体格局的演变",
+            "examItems": [
+                {
+                    "id": 37318,
+                    "answerType": 0
+                },
+                {
+                    "id": 41930,
+                    "answerType": 4
+                },
+                {
+                    "id": 41945,
+                    "answerType": 0
+                },
+                {
+                    "id": 41946,
+                    "answerType": 0
+                },
+                {
+                    "id": 67230,
+                    "answerType": 4
+                }
+            ],
+            "mistakeCount": 5
+        },
+        {
+            "id": 16509,
+            "name": "加强和规范党内政治生活加强和规范党内政治生活（新增）",
+            "examItems": [
+                {
+                    "id": 36952,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 16515,
+            "name": "“两个一百年”，“中国梦”（补充）",
+            "examItems": [
+                {
+                    "id": 43253,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 18794,
+            "name": "十月国内时政",
+            "examItems": [
+                {
+                    "id": 79352,
+                    "answerType": 1
+                },
+                {
+                    "id": 79358,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 20114,
+            "name": "2018年1月国际时政",
+            "examItems": [
+                {
+                    "id": 116638,
+                    "answerType": 0
+                },
+                {
+                    "id": 116646,
+                    "answerType": 0
+                },
+                {
+                    "id": 116649,
+                    "answerType": 0
+                },
+                {
+                    "id": 116650,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国际时政(1月-3月 )",
+            "mistakeCount": 4
+        },
+        {
+            "id": 21580,
+            "name": "2016年张修齐政治真题",
+            "examItems": [
+                {
+                    "id": 111979,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 21583,
+            "name": "2013年张修齐政治真题",
+            "examItems": [
+                {
+                    "id": 112074,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 22196,
+            "name": "资本主义的发展及趋势",
+            "examItems": [
+                {
+                    "id": 115812,
+                    "answerType": 1
+                },
+                {
+                    "id": 115815,
+                    "answerType": 1
+                },
+                {
+                    "id": 115816,
+                    "answerType": 1
+                },
+                {
+                    "id": 115817,
+                    "answerType": 1
+                },
+                {
+                    "id": 115819,
+                    "answerType": 1
+                },
+                {
+                    "id": 115820,
+                    "answerType": 1
+                },
+                {
+                    "id": 115822,
+                    "answerType": 1
+                },
+                {
+                    "id": 115823,
+                    "answerType": 1
+                },
+                {
+                    "id": 115824,
+                    "answerType": 1
+                },
+                {
+                    "id": 115825,
+                    "answerType": 1
+                },
+                {
+                    "id": 115827,
+                    "answerType": 1
+                },
+                {
+                    "id": 115828,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 12
+        },
+        {
+            "id": 22197,
+            "name": "社会主义社会的发展及其规律",
+            "examItems": [
+                {
+                    "id": 115833,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 22200,
+            "name": "新民主主义革命理论",
+            "examItems": [
+                {
+                    "id": 115881,
+                    "answerType": 0
+                },
+                {
+                    "id": 115884,
+                    "answerType": 0
+                },
+                {
+                    "id": 115890,
+                    "answerType": 0
+                },
+                {
+                    "id": 115891,
+                    "answerType": 0
+                },
+                {
+                    "id": 115895,
+                    "answerType": 0
+                },
+                {
+                    "id": 115897,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 6
+        },
+        {
+            "id": 22201,
+            "name": "社会主义改造理论",
+            "examItems": [
+                {
+                    "id": 116106,
+                    "answerType": 1
+                },
+                {
+                    "id": 116456,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 2
+        },
+        {
+            "id": 22204,
+            "name": "社会主义本质和建设中国特色社会主义总任务",
+            "examItems": [
+                {
+                    "id": 116499,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 22205,
+            "name": "社会主义改革开放理论",
+            "examItems": [
+                {
+                    "id": 116511,
+                    "answerType": 1
+                },
+                {
+                    "id": 116517,
+                    "answerType": 1
+                },
+                {
+                    "id": 116518,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 3
+        },
+        {
+            "id": 22206,
+            "name": "建设中国特色社会主义总布局",
+            "examItems": [
+                {
+                    "id": 116536,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 22208,
+            "name": "中国特色社会主义外交和国际战略",
+            "examItems": [
+                {
+                    "id": 116035,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 22209,
+            "name": "建设中国特色社会主义的根本目的和依靠力量理论",
+            "examItems": [
+                {
+                    "id": 116723,
+                    "answerType": 1
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 22532,
+            "name": "2018年1月国内时事",
+            "examItems": [
+                {
+                    "id": 116669,
+                    "answerType": 0
+                },
+                {
+                    "id": 116670,
+                    "answerType": 0
+                },
+                {
+                    "id": 116671,
+                    "answerType": 0
+                },
+                {
+                    "id": 116673,
+                    "answerType": 0
+                },
+                {
+                    "id": 116677,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国内时政(1月-3月)",
+            "mistakeCount": 5
+        },
+        {
+            "id": 22535,
+            "name": "2018年2月国际时事",
+            "examItems": [
+                {
+                    "id": 116654,
+                    "answerType": 0
+                },
+                {
+                    "id": 116658,
+                    "answerType": 0
+                },
+                {
+                    "id": 116660,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国际时政(1月-3月 )",
+            "mistakeCount": 3
+        },
+        {
+            "id": 23910,
+            "name": "2004年考研政治真题解析",
+            "examItems": [
+                {
+                    "id": 126746,
+                    "answerType": 0
+                }
+            ],
+            "mistakeCount": 1
+        },
+        {
+            "id": 23918,
+            "name": "毛泽东思想的形成与发展",
+            "examItems": [
+                {
+                    "id": 836,
+                    "answerType": 1
+                }
+            ],
+            "channelPathName": "毛泽东思想和中国特色社会主义理论体系概论 > 第1章 毛泽东思想及其历史地位 > 毛泽东思想的形成和发展",
+            "mistakeCount": 1
+        },
+        {
+            "id": 24667,
+            "name": "2018年4月国内时事",
+            "examItems": [
+                {
+                    "id": 132148,
+                    "answerType": 0
+                },
+                {
+                    "id": 132149,
+                    "answerType": 0
+                },
+                {
+                    "id": 132150,
+                    "answerType": 0
+                },
+                {
+                    "id": 132153,
+                    "answerType": 0
+                },
+                {
+                    "id": 132154,
+                    "answerType": 0
+                },
+                {
+                    "id": 132160,
+                    "answerType": 0
+                },
+                {
+                    "id": 132162,
+                    "answerType": 0
+                },
+                {
+                    "id": 132163,
+                    "answerType": 0
+                },
+                {
+                    "id": 132165,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国内时政(4月-6月)",
+            "mistakeCount": 9
+        },
+        {
+            "id": 24668,
+            "name": "2018年4月国际时事",
+            "examItems": [
+                {
+                    "id": 132232,
+                    "answerType": 0
+                },
+                {
+                    "id": 132236,
+                    "answerType": 0
+                },
+                {
+                    "id": 132238,
+                    "answerType": 0
+                },
+                {
+                    "id": 132243,
+                    "answerType": 0
+                },
+                {
+                    "id": 132245,
+                    "answerType": 0
+                },
+                {
+                    "id": 132246,
+                    "answerType": 0
+                },
+                {
+                    "id": 132248,
+                    "answerType": 0
+                },
+                {
+                    "id": 132249,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国际时政(4月-6月 )",
+            "mistakeCount": 8
+        },
+        {
+            "id": 24670,
+            "name": "2018年5月国际时事",
+            "examItems": [
+                {
+                    "id": 132232,
+                    "answerType": 0
+                },
+                {
+                    "id": 132236,
+                    "answerType": 0
+                },
+                {
+                    "id": 132238,
+                    "answerType": 0
+                },
+                {
+                    "id": 132243,
+                    "answerType": 0
+                },
+                {
+                    "id": 132245,
+                    "answerType": 0
+                },
+                {
+                    "id": 132246,
+                    "answerType": 0
+                },
+                {
+                    "id": 132248,
+                    "answerType": 0
+                },
+                {
+                    "id": 132249,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国际时政(4月-6月 )",
+            "mistakeCount": 8
+        },
+        {
+            "id": 24672,
+            "name": "2018年6月国际时事",
+            "examItems": [
+                {
+                    "id": 132232,
+                    "answerType": 0
+                },
+                {
+                    "id": 132236,
+                    "answerType": 0
+                },
+                {
+                    "id": 132238,
+                    "answerType": 0
+                },
+                {
+                    "id": 132243,
+                    "answerType": 0
+                },
+                {
+                    "id": 132245,
+                    "answerType": 0
+                },
+                {
+                    "id": 132246,
+                    "answerType": 0
+                },
+                {
+                    "id": 132248,
+                    "answerType": 0
+                },
+                {
+                    "id": 132249,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国际时政(4月-6月 )",
+            "mistakeCount": 8
+        },
+        {
+            "id": 24673,
+            "name": "2018年7月国内时事",
+            "examItems": [
+                {
+                    "id": 132167,
+                    "answerType": 0
+                },
+                {
+                    "id": 132171,
+                    "answerType": 0
+                },
+                {
+                    "id": 132175,
+                    "answerType": 0
+                },
+                {
+                    "id": 132180,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国内时政(7月-9月)",
+            "mistakeCount": 4
+        },
+        {
+            "id": 24674,
+            "name": "2018年7月国际时事",
+            "examItems": [
+                {
+                    "id": 132255,
+                    "answerType": 0
+                },
+                {
+                    "id": 132256,
+                    "answerType": 0
+                },
+                {
+                    "id": 132257,
+                    "answerType": 0
+                },
+                {
+                    "id": 132272,
+                    "answerType": 0
+                },
+                {
+                    "id": 132275,
+                    "answerType": 0
+                },
+                {
+                    "id": 132276,
+                    "answerType": 0
+                },
+                {
+                    "id": 132279,
+                    "answerType": 0
+                },
+                {
+                    "id": 132283,
+                    "answerType": 0
+                },
+                {
+                    "id": 132285,
+                    "answerType": 0
+                },
+                {
+                    "id": 132287,
+                    "answerType": 0
+                },
+                {
+                    "id": 132289,
+                    "answerType": 0
+                },
+                {
+                    "id": 132290,
+                    "answerType": 0
+                },
+                {
+                    "id": 132293,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国际时政(7月-9月 )",
+            "mistakeCount": 13
+        },
+        {
+            "id": 24675,
+            "name": "2018年8月国内时事",
+            "examItems": [
+                {
+                    "id": 132167,
+                    "answerType": 0
+                },
+                {
+                    "id": 132171,
+                    "answerType": 0
+                },
+                {
+                    "id": 132175,
+                    "answerType": 0
+                },
+                {
+                    "id": 132180,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国内时政(7月-9月)",
+            "mistakeCount": 4
+        },
+        {
+            "id": 24676,
+            "name": "2018年8月国际时事",
+            "examItems": [
+                {
+                    "id": 132255,
+                    "answerType": 0
+                },
+                {
+                    "id": 132256,
+                    "answerType": 0
+                },
+                {
+                    "id": 132257,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国际时政(7月-9月 )",
+            "mistakeCount": 3
+        },
+        {
+            "id": 24677,
+            "name": "2018年9月国内时事",
+            "examItems": [
+                {
+                    "id": 132167,
+                    "answerType": 0
+                },
+                {
+                    "id": 132171,
+                    "answerType": 0
+                },
+                {
+                    "id": 132175,
+                    "answerType": 0
+                },
+                {
+                    "id": 132180,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国内时政(7月-9月)",
+            "mistakeCount": 4
+        },
+        {
+            "id": 24678,
+            "name": "2018年9月国际时事",
+            "examItems": [
+                {
+                    "id": 132255,
+                    "answerType": 0
+                },
+                {
+                    "id": 132256,
+                    "answerType": 0
+                },
+                {
+                    "id": 132257,
+                    "answerType": 0
+                }
+            ],
+            "channelPathName": "形势与政策以及当代世界经济与政治 > 形势与政策 > 2018年国际时政(7月-9月 )",
+            "mistakeCount": 3
+        }
+    ],
+    "page": 1,
+    "pageSize": 100000,
+    "total": 187,
+    "totalPages": 1
+}
