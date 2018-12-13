@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.15)  18 NOV 2018 16:53
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.15)  11 DEC 2018 19:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3180,106 +3180,8 @@ Missing character: There is no ① in font [lmroman10-regular]:mapping=tex-text;
 (./politics_chapters/14887-在实践中化理想为现实.tex)
 (./politics_chapters/14889-新时期的爱国主义与爱国主义的时代价值.tex)
 (./politics_chapters/14890-民族精神与时代精神.tex) (./politics_chapters/14897-道德及其作用.tex
-[48]) (./politics_chapters/14902-世界总体格局的演变.tex
-! Missing number, treated as zero.
-<to be read again> 
-                   ]
-l.15 ...�充满矛盾和斗争。}[2\baselineskip]
-                                                  {三、}{\textbf{经济全...
-
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   ]
-l.15 ...�充满矛盾和斗争。}[2\baselineskip]
-                                                  {三、}{\textbf{经济全...
-
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   ]
-l.21 ...�易规则日趋统一。}[2\baselineskip]
-                                                  {经济全球化有利于�...
-
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   ]
-l.21 ...�易规则日趋统一。}[2\baselineskip]
-                                                  {经济全球化有利于�...
-
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   ]
-l.21 ...存的经济全球化。~}[2\baselineskip]
-                                                  {经济全球化与区域�...
-
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   ]
-l.21 ...存的经济全球化。~}[2\baselineskip]
-                                                  {经济全球化与区域�...
-
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   ]
-l.21 ...�（对立统一）的。}[2\baselineskip]
-                                                  {四、}{\textbf{区域经...
-
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   ]
-l.21 ...�（对立统一）的。}[2\baselineskip]
-                                                  {四、}{\textbf{区域经...
-
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   ]
-l.22 ...�四，完全一体化。}[2\baselineskip]
-                                                  {类型：第一，优惠�...
-
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   ]
-l.22 ...�四，完全一体化。}[2\baselineskip]
-                                                  {类型：第一，优惠�...
-
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   ]
-l.22 ...�完全经济一体化。}[2\baselineskip]
-                                                  {主要的组织：欧洲�...
-
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   ]
-l.22 ...�完全经济一体化。}[2\baselineskip]
-                                                  {主要的组织：欧洲�...
-
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   ]
-l.22 ...�经济合作组织等。}[2\baselineskip]
-                                                  \textbf{2014年11月，亚...
-
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   ]
-l.22 ...�经济合作组织等。}[2\baselineskip]
-                                                  \textbf{2014年11月，亚...
-
-? 
-) (./politics_chapters/16509-加强和规范党内政治生活加强和规范党内政治生活（新增）.tex
+[48]) (./politics_chapters/14902-世界总体格局的演变.tex)
+(./politics_chapters/16509-加强和规范党内政治生活加强和规范党内政治生活（新增）.tex
 Missing character: There is no ★ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ☆ in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ☆ in font [lmroman10-regular]:mapping=tex-text;!
@@ -3295,39 +3197,28 @@ Missing character: There is no ☆ in font [lmroman10-regular]:mapping=tex-text;
 )
 (./politics_chapters/18794-十月国内时政.tex [50] [51] [52])
 (./politics_chapters/20114-2018年1月国际时政.tex [53])
-(./politics_chapters/21580-2016年张修齐政治真题.tex)
-(./politics_chapters/21583-2013年张修齐政治真题.tex)
-(./politics_chapters/22196-资本主义的发展及趋势.tex)
-(./politics_chapters/22197-社会主义社会的发展及其规律.tex)
-(./politics_chapters/22200-新民主主义革命理论.tex) [54]
-(./politics_chapters/22201-社会主义改造理论.tex)
-(./politics_chapters/22204-社会主义本质和建设中国特色社会主义总任务.tex)
-(./politics_chapters/22205-社会主义改革开放理论.tex)
-(./politics_chapters/22206-建设中国特色社会主义总布局.tex)
-(./politics_chapters/22208-中国特色社会主义外交和国际战略.tex)
-(./politics_chapters/22209-建设中国特色社会主义的根本目的和依靠力量理论.tex)
 (./politics_chapters/22532-2018年1月国内时事.tex
 Missing character: There is no ○ in font [lmroman10-regular]:mapping=tex-text;!
- [55] [56]
+ [54] [55]
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-[57] [58]) (./politics_chapters/22535-2018年2月国际时事.tex [59] [60])
+[56] [57]) [58] (./politics_chapters/22535-2018年2月国际时事.tex [59])
 (./politics_chapters/23910-2004年考研政治真题解析.tex)
 (./politics_chapters/23918-毛泽东思想的形成与发展.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--356
 
  []
 
-(./politics_chapters/24667-2018年4月国内时事.tex [61] [62] [63])
-(./politics_chapters/24668-2018年4月国际时事.tex [64]
+[60] (./politics_chapters/24667-2018年4月国内时事.tex [61] [62] [63])
+(./politics_chapters/24668-2018年4月国际时事.tex
 Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
-[65]) (./politics_chapters/24670-2018年5月国际时事.tex [66] [67])
-(./politics_chapters/24672-2018年6月国际时事.tex
+[64]) (./politics_chapters/24670-2018年5月国际时事.tex [65] [66])
+(./politics_chapters/24672-2018年6月国际时事.tex [67]
 Missing character: There is no ∶ in font [lmroman10-regular]:mapping=tex-text;!
  [68])
 (./politics_chapters/24673-2018年7月国内时事.tex [69]
@@ -3335,7 +3226,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-[70]
+
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
@@ -3345,16 +3236,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-[71]
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-[72] [73]) (./politics_chapters/24674-2018年7月国际时事.tex [74]
+[71] [72]) (./politics_chapters/24674-2018年7月国际时事.tex [73]
 Missing character: There is no ∶ in font [lmroman10-regular]:mapping=tex-text;!
- [75])
-(./politics_chapters/24675-2018年8月国内时事.tex [76] [77] [78] [79])
-(./politics_chapters/24676-2018年8月国际时事.tex [80] [81])
+ [74])
+(./politics_chapters/24675-2018年8月国内时事.tex [75] [76] [77] [78])
+(./politics_chapters/24676-2018年8月国际时事.tex [79] [80])
 (./politics_chapters/24677-2018年9月国内时事.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
@@ -3366,17 +3257,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-[82] [83]
+[81] [82]
 Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-[84] [85]) (./politics_chapters/24678-2018年9月国际时事.tex [86]
+[83] [84]) (./politics_chapters/24678-2018年9月国际时事.tex [85]
 Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-[87])) [88]
+[86])) [87] [88]
 This exam contains 0 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
@@ -3396,9 +3287,9 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 74.
  ) 
 Here is how much of TeX's memory you used:
- 60311 strings out of 494489
- 1405808 string characters out of 6165144
- 1572928 words of memory out of 5000000
+ 60278 strings out of 494489
+ 1404672 string characters out of 6165144
+ 1570700 words of memory out of 5000000
  62769 multiletter control sequences out of 15000+600000
  556790 words of font info for 142 fonts, out of 8000000 for 9000
  286 hyphenation exceptions out of 8191
